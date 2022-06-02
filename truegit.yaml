@@ -2,7 +2,7 @@ title: Oleg Gulevskyy
 description: Personal blog where I try to share stuff about tech industry, engineering specifically, well-being, personal projects and so on.
 # This folder is where all the files related to the blog would live
 blogFolder: blog
-bannerImage: /banner.webp
+bannerImage: /banner.jpg
 logoImage: ./logo.png
 navLinks:
   - title: Clone Me
